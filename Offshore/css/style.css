@@ -1,0 +1,121 @@
+
+
+header{
+    background-color: rgb(73, 131, 65);
+    height: 200px;
+}
+
+footer{
+    background-color: darkkhaki;
+    height: 100px;
+}
+h1{
+    color: rgb(132, 194, 26);
+    padding-left: 750px;
+    padding-top: 30px;   
+}
+.bb{
+    height: 300px;
+    width: 300px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    }
+#a{
+    width: 472px;
+    height: 300px;
+background-color: rgb(8, 168, 21);
+color: rgba(196, 31, 31, 0.993);
+padding-left: 120px;
+}
+#b{
+    width: 472px;
+    height: 300px;
+background-color: rgb(37, 114, 43);
+
+}
+#c{
+    width: 472px;
+    height: 300px;
+background-color: rgb(79, 224, 74);
+color: rgba(230, 130, 130, 0.986);
+padding-left: 70px;
+}
+#d{
+    width: 472px;
+    height: 300px;
+background-color: rgb(11, 131, 7);
+}
+#e{ width: 472px;
+    height: 300px;
+background-color: rgb(94, 175, 69);
+color: rgb(10, 226, 241);
+padding-left: 120px;
+}
+#f{
+    width: 472px;
+    height: 300px;
+background-color: rgb(30, 173, 61);
+}
+#g{
+    width: 472px;
+    height: 300px;
+background-color: rgba(35, 179, 42, 0.5);
+color: rgb(24, 8, 241);
+padding-left: 80px;
+}
+#h{
+     width: 472px;
+    height: 300px;
+background-color: rgb(152, 235, 114);
+}
+#i{
+    width: 472px;
+    height: 300px;
+background-color: rgb(28, 148, 58); 
+color: rgb(197, 180, 28);
+padding-left: 130px;
+}
+#j{
+ width: 472px;
+height: 300px;
+background-color: rgb(77, 128, 67);
+}
+#k{
+    width: 472px;
+    height: 300px;
+    background-color: rgb(57, 226, 15);
+    color: rgb(223, 48, 185);
+    padding-left: 80px;
+}
+#l{
+    width: 472px;
+    height: 300px;
+    background-color: rgba(58, 151, 35, 0.521);
+}
+#m{
+    width: 472px;
+    height: 300px;
+    background-color: rgb(154, 230, 136);
+    color: rgb(209, 66, 85);
+    padding-left: 120px;
+}
+#n{
+    width: 472px;
+    height: 300px;
+    background-color: rgb(114, 216, 30);
+}
+#o{
+    width: 472px;
+    height: 300px;
+    background-color: rgba(24, 161, 58, 0.877);
+    color: rgb(236, 140, 15);
+    padding-left: 120px;
+}
+#p{
+    width: 472px;
+    height: 300px;
+    background-color: rgb(89, 223, 72);
+}
+#q{
+    color:darkgreen;
+}
