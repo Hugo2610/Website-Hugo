@@ -16,7 +16,7 @@ header{
     margin-top: 10px;
     margin-left: 8px;
     margin-right: 8px; 
-    border: 1px;
+    border-width: 1px;
     border-style: ridge;
     border-color:  rgb(100, 6, 6);
 }
@@ -39,7 +39,7 @@ h1{
     display: block;
     width: 250px;
     height: 250px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color:  rgb(100, 6, 6);
 }
@@ -64,7 +64,7 @@ footer{
     margin-right: 9px;
     margin-top: 100px;
     color:rgb(134, 127, 127);
-    border: 1px;
+    border-width: 1px;
     border-style: ridge;
     border-color:  rgb(100, 6, 6);
 }
@@ -100,7 +100,7 @@ footer{
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color:  rgb(100, 6, 6);
     border-radius: 10px;
@@ -110,7 +110,7 @@ footer{
     width: 190px;
     height: 110px;
     padding: 10px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color:  rgb(100, 6, 6);
     border-radius: 11px;
@@ -121,7 +121,7 @@ footer{
         width: 190px;
         height: 110px;
         padding: 10px;
-        border: 2px #423e3e;
+        border-width: 2px #423e3e;
         border-style:ridge;
         border-color:  rgb(100, 6, 6);
         border-radius: 11px;
@@ -137,7 +137,7 @@ footer{
     padding: 5px;
     margin-left: 2px;
     margin-right: 10px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color: rgb(177, 30, 30);
     }
@@ -170,7 +170,7 @@ div{
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -185,7 +185,7 @@ div{
     margin-left: 2px;
     margin-right: 2px;
     padding: 5px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -218,7 +218,7 @@ div{
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -285,7 +285,7 @@ caption{
     margin-top: 10px;
     margin-left: 9px;
     margin-right: 9px; 
-    border: 1px;
+    border-width: 1px;
     border-style: ridge;
     border-color:  rgb(100, 6, 6);
 }
@@ -310,7 +310,7 @@ caption{
     padding: 5px;
     margin-left: 2px;
     margin-right: 3px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -490,7 +490,7 @@ input[type="submit"]:active{
     font-size: 20px;
     padding:10px;
     margin-top: 40px;
-    border:1px;
+    border-width:1px;
     border-style: ridge;
     border-color: #d41111;
     text-align: center;
