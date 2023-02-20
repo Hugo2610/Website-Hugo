@@ -150,7 +150,7 @@ footer{
     padding: 5px;
     margin-left: 114px;
     margin-right: 1px;
-    border: 2px #423e3e;
+    border-width: 2px #423e3e;
     border-style:ridge;
     border-color: rgb(177, 30, 30);
 }
