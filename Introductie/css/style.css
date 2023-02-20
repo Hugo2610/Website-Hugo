@@ -39,7 +39,7 @@ h1{
     display: block;
     width: 250px;
     height: 250px;
-    border-width: 2px #423e3e;
+    border-width: 2px;
     border-style:ridge;
     border-color:  rgb(100, 6, 6);
 }
@@ -100,7 +100,7 @@ footer{
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
-    border-width: 2px #423e3e;
+    border-width: 2px;
     border-style:ridge;
     border-color:  rgb(100, 6, 6);
     border-radius: 10px;
@@ -110,7 +110,7 @@ footer{
     width: 190px;
     height: 110px;
     padding: 10px;
-    border-width: 2px #423e3e;
+    border-width: 2px;
     border-style:ridge;
     border-color:  rgb(100, 6, 6);
     border-radius: 11px;
@@ -121,7 +121,7 @@ footer{
         width: 190px;
         height: 110px;
         padding: 10px;
-        border-width: 2px #423e3e;
+        border-width: 2px ;
         border-style:ridge;
         border-color:  rgb(100, 6, 6);
         border-radius: 11px;
@@ -137,7 +137,7 @@ footer{
     padding: 5px;
     margin-left: 2px;
     margin-right: 10px;
-    border-width: 2px #423e3e;
+    border-width: 2px ;
     border-style:ridge;
     border-color: rgb(177, 30, 30);
     }
@@ -150,7 +150,7 @@ footer{
     padding: 5px;
     margin-left: 114px;
     margin-right: 1px;
-    border-width: 2px #423e3e;
+    border-width: 2px ;
     border-style:ridge;
     border-color: rgb(177, 30, 30);
 }
@@ -170,7 +170,7 @@ div{
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
-    border-width: 2px #423e3e;
+    border-width: 2px ;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -185,7 +185,7 @@ div{
     margin-left: 2px;
     margin-right: 2px;
     padding: 5px;
-    border-width: 2px #423e3e;
+    border-width: 2px ;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -218,7 +218,7 @@ div{
     margin-left: 5px;
     margin-right: 5px;
     padding: 5px;
-    border-width: 2px #423e3e;
+    border-width: 2px ;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -310,7 +310,7 @@ caption{
     padding: 5px;
     margin-left: 2px;
     margin-right: 3px;
-    border-width: 2px #423e3e;
+    border-width: 2px ;
     border-style:ridge;
     border-color: rgb(100, 6, 6);
     border-radius: 10px;
@@ -423,7 +423,7 @@ input[type="checkbox"]{
     border-radius: 8px;
     border-style: ridge;
     border-color: #d41111;
-    box-shadow: #5a1313;
+    box-shadow:inset 2px 2px 6px #5a1313;
     
     
 } 
