@@ -292,8 +292,8 @@ caption{
 
 /*h1*/
 #benb{
-    margin-left: 140px;
-    margin-right: 140px;
+    margin-left: 160px;
+    margin-right: 160px;
     
     
 }
@@ -307,7 +307,6 @@ caption{
 #dochter5{
     width: 150px;
     height: 150px;
-    padding: 5px;
     margin-left: 2px;
     margin-right: 3px;
     border-width: 2px ;
@@ -334,11 +333,7 @@ caption{
     font-size: 20px;
     color: rgb(245, 8, 8); 
 }
-/*figure*/    
-figure:hover{
-  font-size: 20px;
-    color: rgb(245, 8, 8);   
-}
+
 /*s*/
 #cl{
     text-decoration-color: rgb(80, 10, 10);
@@ -353,9 +348,13 @@ form{
     color: rgb(255, 34, 34);
     font-size: 14px;
     text-shadow: 12px 12px 10px rgb(255, 0, 0);
-    padding: 10px;
     margin-left: 2px;
     margin-right: 2px;
+}
+/*figure*/    
+figure:hover{
+  font-size: 20px;
+    color: rgb(245, 8, 8);   
 }
 /*fieldset*/
 #klr{
