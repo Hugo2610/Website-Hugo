@@ -5,7 +5,7 @@ header{
   background-color: rgb(255, 208, 0);
   width: 100%;
   height: 200px;
-  border-radius: 2px;
+  border-radius: 5px;
 
 }
 iframe{
@@ -16,33 +16,35 @@ iframe{
   margin-right: auto;
   width: 50%;
   min-height: 565px;
-  filter: drop-shadow(4px 4px 5px rgb(255, 208, 0));
+  filter: drop-shadow( 0px 0px 130px rgb(255, 208, 0));
+  
 }
 footer{
   background-color: rgb(255, 208, 0);
   height: 50px;
   width: 100%;
+ border-radius: 5px;
 }
 #ftx{
   float: right;
 }
 #EEN{
   height: 70px;
-  border-radius: 2px;
+ 
 }
 img{
   display: inline;
   width: auto;
   height: 175px;
   margin: 10px;
-  border-radius: 3px;
+  border-radius: 5px;
   border-style: groove;
-  filter: drop-shadow(4px 4px 3px rgb(214, 0 , 0));
+  filter: drop-shadow(2px 2px 6px rgb(255, 0, 0));
 }
 h1{
 display: inline;
 font-size: 160px;
-text-shadow: 6px 6px 3px rgb(214, 78, 0);
+text-shadow: -6px -6px 6px rgb(214, 78, 0);
 margin-bottom: 10px;
 position: relative;
 left: 130px;
