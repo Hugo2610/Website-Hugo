@@ -19,16 +19,14 @@ header{
     
 }
 /*media*/
-body{
-     background-color: rgb(117, 165, 253);
-}
+
     [class*="col-"]{
     width: 100%;
     float: left;  
 }
+body{background-color: azure;}
 @media only screen and (min-width:600px){
-body{
-    background-color: rgb(252, 252, 252);}
+body{background-color: beige;}
     [class*="col-"]
     {
 padding: 10px;
