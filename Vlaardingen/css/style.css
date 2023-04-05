@@ -93,6 +93,7 @@ border-color: rgb(120, 150, 160);
 border-style: ridge;
 border-width: 2px;
 float: right;
+clear: left;
 }
 /*img*/
 img{
