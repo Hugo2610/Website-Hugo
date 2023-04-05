@@ -119,5 +119,6 @@ img{
     color: rgb(17, 0, 255);
  } 
  footer{
-    clear: both;
+    clear: left;
+    clear: right;
  }
