@@ -3,7 +3,7 @@
 
     [class*="col-"]{
     width: 100%;
-    float: left; 
+    float:left; 
 }
 body{background-color: azure;
 }
@@ -72,6 +72,7 @@ h2{
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     float: right;
+    
 
 }
 /*div*/
@@ -124,5 +125,5 @@ float: right;
     
 }
 footer{
-    clear:left;
+    clear: left;
 }
