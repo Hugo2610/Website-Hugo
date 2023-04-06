@@ -8,9 +8,16 @@
 }
 body{background-color: azure;
 }
-.col-12{
-    width: 100%;
-    float: inherit;
+h1{
+font-family: 'Bangers', cursive;
+font-family: 'Kalam', cursive;
+font-size: 1000%;
+color:rgb(0, 21, 139);
+text-shadow: -2px 2px 2px rgb(90, 114, 255);
+position: absolute;
+left: 25%;
+display: inline-block;
+
 }
 @media only screen and (min-width:600px){
 body{background-color: beige;}
@@ -35,17 +42,7 @@ padding: 10px;
 .col-12 {width: 100%;}
 }
 /*h1*/
-h1{
-font-family: 'Bangers', cursive;
-font-family: 'Kalam', cursive;
-font-size: 1000%;
-color:rgb(0, 21, 139);
-text-shadow: -2px 2px 2px rgb(90, 114, 255);
-position: absolute;
-left: 25%;
-display: inline-block;
 
-}
 /*ol*/
 ol li{
     font-family: 'Bangers', cursive;
