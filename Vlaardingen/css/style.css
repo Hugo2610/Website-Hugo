@@ -9,7 +9,7 @@
 body{background-color: azure;
 }
 
-@media only screen and (min-width:600px){
+@media only screen and (min-width:767px){
 body{background-color: beige;}
     [class*="col-"]
     {
@@ -92,9 +92,9 @@ float: right;
 /*img*/
 .info{
     border-style: ridge;
-    border-radius: 0.5px;
-    border-color: blue;
-    
+    border-radius: 2px;
+    border-color: rgb(0, 0, 0);
+    margin: 2px;
     float: right;
     display: block;
     }
