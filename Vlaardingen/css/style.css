@@ -3,7 +3,7 @@
 
     [class*="col-"]{
     width: 100%;
-    height: auto;
+    min-height: auto;
     float:left; 
 }
 body{background-color: azure;
@@ -12,7 +12,8 @@ body{background-color: azure;
 body{background-color: beige;}
     [class*="col-"]
     {
-    
+    width: 100%;
+    min-height: auto;
 padding: 10px;
 
 }
