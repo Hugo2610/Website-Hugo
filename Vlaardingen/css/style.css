@@ -11,7 +11,7 @@ body{background-color: azure;
 body{background-color: beige;}
     [class*="col-"]
     {
-        width: 100%;
+    
 padding: 10px;
 
 }
