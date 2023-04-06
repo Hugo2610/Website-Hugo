@@ -11,6 +11,7 @@ body{background-color: azure;
 body{background-color: beige;}
     [class*="col-"]
     {
+        width: 100%;
 padding: 10px;
 
 }
@@ -31,10 +32,11 @@ padding: 10px;
 h1{
 font-family: 'Bangers', cursive;
 font-family: 'Kalam', cursive;
-font-size: 150px;
+font-size: 1000%;
 color:rgb(0, 21, 139);
 text-shadow: -2px 2px 2px rgb(90, 114, 255);
 position: absolute;
+left: 25%;
 display: inline-block;
 }
 /*ol*/
