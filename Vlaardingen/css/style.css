@@ -8,6 +8,10 @@
 }
 body{background-color: azure;
 }
+.col-12{
+    width: 100%;
+    float: inherit;
+}
 @media only screen and (min-width:600px){
 body{background-color: beige;}
     [class*="col-"]
@@ -128,4 +132,6 @@ float: right;
 }
 footer{
     clear: left;
+    width: 100%;
+    height: auto;
 }
