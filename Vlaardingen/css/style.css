@@ -12,6 +12,7 @@ body{background-color: beige;}
     [class*="col-"]
     {
 padding: 10px;
+table-layout: auto;
 }
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -36,17 +37,11 @@ text-shadow: -2px 2px 2px rgb(90, 114, 255);
 position: absolute;
 display: inline;
 }
-/*header*/
-header{
-    height: 450px;
-}
-
 /*ol*/
 ol li{
     font-family: 'Bangers', cursive;
     font-family: 'Kalam', cursive;
-    
-}
+    }
 /*h2*/
 h2{
     padding: 20px;
