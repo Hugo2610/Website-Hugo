@@ -134,13 +134,13 @@ footer{
     font-size: 13px;
     clear: both;
     width: 100%;
-    height: auto;
+    height:80px;
     color: antiquewhite;
     border-style: ridge;
     border-width: 2px;
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
-    margin-top: 530px;
+    margin-top: 490px;
 }
 /*p*/
 #loc{
