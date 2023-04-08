@@ -119,7 +119,7 @@ float: right;
     border-style: ridge;
     }
     /*section*/
-footer{
+#drie{
     font-family: 'Bangers', cursive;
     font-family: 'Kalam', cursive;
     background-color: rgb(59, 62, 255);
@@ -141,7 +141,6 @@ footer{
 }
 /*p*/
 #loc{
-    clear: both;
     padding-left: 20px;
    display: inline;
 }
