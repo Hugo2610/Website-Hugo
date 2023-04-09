@@ -15,6 +15,7 @@ body{background-color: beige;}
     padding: 5px;
    min-width: 100%;
     height: auto;
+    
 }
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -39,8 +40,20 @@ text-shadow: -2px 2px 2px rgb(90, 114, 255);
 position: absolute;
 top: -60px;
 left: 35%;
-min-width: 100%;
+
 }
+header{
+    min-width: 100%;
+    height: auto;
+}
+/*img*/
+ #hpt{
+    
+    border-radius: 8px;
+    border-width: 2px;
+    border-color: black;
+    border-style: ridge;
+ }
 /*ol*/
 ol li{
     font-family: 'Bangers', cursive;
@@ -120,19 +133,7 @@ float: right;
     font-size: 20px;
     color: rgb(17, 0, 255);
  } 
- /*img*/
- #hpt{
-    
-    border-radius: 8px;
-    border-width: 2px;
-    border-color: black;
-    border-style: ridge;
-    
-    height: auto;
-    
-    }
-
-footer{
+ footer{
     clear: left;
     min-width: 100%;
     clear: right;
@@ -147,7 +148,7 @@ font-family: 'Bangers', cursive;
     border-radius: 6px;
     margin-top: 540px;
     margin-right: 10px;    
-    height: 20px;
+    height: 40px;
 
 }
 /*p*/
