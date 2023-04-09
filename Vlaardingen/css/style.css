@@ -76,7 +76,7 @@ h2{
 /*div*/
 #vier{
     display: inline;
-    width: auto;
+    min-width: 100%;
 }
 /*div*/
 .kolom{  
@@ -141,7 +141,7 @@ float: right;
     border-radius: 6px;
     margin-top: 540px;
     margin-right: 10px;
-    
+    min-width: 100%;
     
 }
 /*p*/
