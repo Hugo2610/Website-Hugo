@@ -4,6 +4,7 @@
     [class*="col-"]{
     width: 100%;
     height: auto;
+    
     }
 body{background-color: azure;
     }
@@ -12,6 +13,8 @@ body{background-color: beige;}
     [class*="col-"]
     {
     padding: 5px;
+    width: auto;
+    height: auto;
 }
 .col-1 {width: 8.33%;}
 .col-2 {width: 16.66%;}
@@ -125,7 +128,7 @@ float: right;
     border-width: 2px;
     border-color: black;
     border-style: ridge;
-    min-width: 100%;
+    width: 100%;
     height: auto;
     
     }
