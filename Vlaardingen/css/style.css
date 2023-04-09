@@ -58,7 +58,7 @@ h2{
     border-radius: 6px;
     float: left;
     margin-top: 5px; 
-    display: block;
+    
     }
 /*div*/
 #twee {
@@ -70,10 +70,11 @@ h2{
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     float: right;
-    display:block;
-}
+    }
 /*div*/
-
+#vier{
+    display: inline;
+}
 /*div*/
 .kolom{  
 background-color: rgb(99, 136, 255);
