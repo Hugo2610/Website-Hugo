@@ -59,6 +59,7 @@ h2{
     border-radius: 6px;
     float: left;
     margin-top: 5px;
+    min-width: 100%;
     }
 /*div*/
 #twee {
@@ -126,7 +127,7 @@ float: right;
      background-color: rgb(59, 62, 255);
     font-size: 13px;
     clear: both;
-    min-width: 99.5%;
+    min-width: 100%;
     height:60px;
     color: antiquewhite;
     border-style: ridge;
