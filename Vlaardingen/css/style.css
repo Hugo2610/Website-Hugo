@@ -123,6 +123,8 @@ float: right;
     border-width: 2px;
     border-color: black;
     border-style: ridge;
+    width: auto;
+    display: block;
     }
 /*section*/
 #drie{
