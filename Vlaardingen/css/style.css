@@ -92,7 +92,7 @@ h2{
 /*div*/
 #vier{
     display: inline;
-    width: 100%;
+    
 }
 /*div*/
 .kolom{  
@@ -116,7 +116,7 @@ float: right;
     margin: 2px;
     float: right;
     display: block;
-    min-width: 100%;
+    
     }
  /*p */
  .xx{
