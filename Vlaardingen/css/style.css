@@ -116,7 +116,7 @@ float: right;
  } 
  /*img*/
  #hpt{
-    
+    width: auto;
     border-radius: 8px;
     border-width: 2px;
     border-color: black;
