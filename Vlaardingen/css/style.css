@@ -10,11 +10,14 @@ body{background-color: azure;
     }
 @media only screen and (max-width:600px){
 body{background-color: beige;}
+#hpt{width: 50%;
+     height: auto;}
     [class*="col-"]
     {
-    padding: 5px;
-   min-width: 100%;
+    padding: 3px;
+    width: 100%;
     height: auto;
+    
     }
 
 .col-1 {width: 8.33%;}
