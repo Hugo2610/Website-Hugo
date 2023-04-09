@@ -116,6 +116,7 @@ float: right;
     margin: 2px;
     float: right;
     display: block;
+    max-width: 100%;
     }
  /*p */
  .xx{
@@ -135,7 +136,7 @@ float: right;
  } 
  footer{
     clear: left;
-    min-width: 100%;
+    max-width: 100%;
     clear: right;
 font-family: 'Bangers', cursive;
     font-family: 'Kalam', cursive;
