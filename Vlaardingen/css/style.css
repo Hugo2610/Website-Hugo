@@ -127,7 +127,7 @@ float: right;
     border-width: 2px;
     border-color: black;
     border-style: ridge;
-    width: 100%;
+    min-width: 100%;
     height: auto;
     
     }
@@ -137,7 +137,7 @@ float: right;
     font-family: 'Kalam', cursive;
      background-color: rgb(59, 62, 255);
     font-size: 13px;
-    clear: both;
+    clear: left;
     color: antiquewhite;
     border-style: ridge;
     border-width: 2px;
