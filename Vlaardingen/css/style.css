@@ -127,7 +127,7 @@ float: right;
     border-width: 2px;
     border-color: black;
     border-style: ridge;
-    min-width: 100%;
+    width: 100%;
     height: auto;
     
     }
@@ -148,7 +148,7 @@ float: right;
 footer{
     clear: left;
     min-width: 100%;
-    height: auto;
+    height: 20px;
 }
 /*p*/
 #lit{
