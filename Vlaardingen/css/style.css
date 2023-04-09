@@ -2,7 +2,7 @@
 /*kolom en media*/
 
     [class*="col-"]{
-    width: 100%;
+    max-width: 100%;
     min-height: auto;
     }
 body{background-color: azure;
@@ -58,19 +58,20 @@ h2{
     border-radius: 6px;
     float: left;
     margin-top: 5px; 
-    width: auto;
+    
     }
 /*div*/
 #twee {
     padding:0px;
     margin-top: 5px;
+    margin-right: 10px;
     background-color:rgb(59, 62, 255);
     border-style: ridge;
     border-width: 2px;
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     float: right;
-    width: auto;
+    
     }
 /*div*/
 #vier{
@@ -123,7 +124,7 @@ float: right;
     border-width: 2px;
     border-color: black;
     border-style: ridge;
-    width: auto;
+    
     display: block;
     }
 /*section*/
@@ -139,10 +140,12 @@ float: right;
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     margin-top: 540px;
-    width: auto;
+    margin-right: 10px;
+    
 }
 /*p*/
 #lit{
     padding-left: 20px;
+    
 }
 
