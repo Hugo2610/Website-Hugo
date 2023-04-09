@@ -13,7 +13,7 @@ body{background-color: beige;}
     [class*="col-"]
     {
     padding: 5px;
-   min-width: 200%;
+   min-width: 300%;
     height: auto;
     
 }
