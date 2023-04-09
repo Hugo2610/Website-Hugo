@@ -71,7 +71,7 @@ h2{
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     float: right;
-    min-width: auto;
+    min-width: none;
     }
 /*div*/
 .kolom{  
