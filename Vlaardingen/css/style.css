@@ -13,7 +13,7 @@ body{background-color: beige;}
     [class*="col-"]
     {
     padding: 5px;
-   min-width: 100%;
+   min-width: 200%;
     height: auto;
     
 }
@@ -139,7 +139,7 @@ float: right;
     clear: left;
     min-width: 100%;
     clear: right;
-font-family: 'Bangers', cursive;
+    font-family: 'Bangers', cursive;
     font-family: 'Kalam', cursive;
      background-color: rgb(59, 62, 255);
     font-size: 13px;
