@@ -8,7 +8,7 @@
     }
 body{background-color: azure;
     }
-@media only screen and (min-width:600px){
+@media only screen and (max-width:600px){
 body{background-color: beige;}
     [class*="col-"]
     {
@@ -75,11 +75,9 @@ h2{
     border-radius: 6px;
     float: left;
     margin-top: 5px; 
-    
     }
 /*div*/
 #twee {
-    padding:0px;
     margin-top: 5px;
     background-color:rgb(59, 62, 255);
     border-style: ridge;
