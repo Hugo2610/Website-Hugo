@@ -10,7 +10,7 @@ body{background-color: azure;
     }
 @media only screen and (max-width:600px){
 body{background-color: beige;}
-#hpt{width: 50%;
+#hpt{width: 100%;
      height: auto;}
     [class*="col-"]
     {
