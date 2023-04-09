@@ -12,7 +12,7 @@ body{background-color: beige;}
     [class*="col-"]
     {
     padding: 5px;
-    width: 100%;
+    min-width: 100%;
     height: auto;
     }
 .col-1 {width: 8.33%;}
