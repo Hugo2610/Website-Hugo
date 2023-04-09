@@ -125,7 +125,7 @@ float: right;
     border-width: 2px;
     border-color: black;
     border-style: ridge;
-    width: 100%;
+    min-width: 100%;
     display: block;
     }
 /*section*/
