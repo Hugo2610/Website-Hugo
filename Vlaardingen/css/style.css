@@ -131,9 +131,12 @@ float: right;
     height: auto;
     
     }
-/*section*/
-#drie{
-    font-family: 'Bangers', cursive;
+
+footer{
+    clear: left;
+    min-width: 100%;
+    clear: right;
+font-family: 'Bangers', cursive;
     font-family: 'Kalam', cursive;
      background-color: rgb(59, 62, 255);
     font-size: 13px;
@@ -145,11 +148,7 @@ float: right;
     margin-top: 540px;
     margin-right: 10px;    
     height: 20px;
-}
-footer{
-    clear: left;
-    min-width: 100%;
-    clear: right;
+
 }
 /*p*/
 #lit{
