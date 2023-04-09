@@ -13,8 +13,8 @@ body{background-color: beige;}
 
     [class*="col-"]
     {
-    padding: 3px;
-    width: 150%;
+    padding: 10px;
+    width: 250%;
     height: auto;
     }
 
