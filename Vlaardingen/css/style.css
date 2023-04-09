@@ -14,7 +14,7 @@ body{background-color: beige;}
     [class*="col-"]
     {
     padding: 3px;
-    width: 100%;
+    width: 150%;
     height: auto;
     }
 
