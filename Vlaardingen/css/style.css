@@ -52,19 +52,17 @@ h2{
 #een{
     color: antiquewhite;
     background-color: rgb(59, 62, 255);
-    min-height: auto;
     border-style: ridge;
     border-width: 2px;
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     float: left;
-    margin-top: 5px;
-    min-width: 100%;
-    
+    margin-top: 5px; 
+    display: block;
     }
 /*div*/
 #twee {
-    padding:5px;
+    padding:0px;
     margin-right: 0px;
     background-color:rgb(59, 62, 255);
     border-style: ridge;
@@ -72,13 +70,9 @@ h2{
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     float: right;
-    min-height: auto;
+    display:block;
 }
-/*section*/
-#vier{
-    min-width: 100%;
-    height: auto;
-}
+/*div*/
 
 /*div*/
 .kolom{  
@@ -121,7 +115,7 @@ float: right;
  } 
  /*img*/
  #hpt{
-    min-width: 100%;
+    
     border-radius: 8px;
     border-width: 2px;
     border-color: black;
@@ -134,8 +128,6 @@ float: right;
      background-color: rgb(59, 62, 255);
     font-size: 13px;
     clear: both;
-    min-width: 100%;
-    height:auto;
     color: antiquewhite;
     border-style: ridge;
     border-width: 2px;
