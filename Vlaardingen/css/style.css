@@ -116,7 +116,8 @@ float: right;
     margin: 2px;
     float: right;
     display: block;
-    
+    width: 110px;
+    height: auto;
     }
  /*p */
  .xx{
