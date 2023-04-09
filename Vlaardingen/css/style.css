@@ -64,7 +64,6 @@ h2{
 #twee {
     padding:0px;
     margin-top: 5px;
-    margin-right: 5px;
     margin-left: 30px;
     background-color:rgb(59, 62, 255);
     border-style: ridge;
@@ -128,7 +127,7 @@ float: right;
     border-style: ridge;
     min-width: 100%;
     height: auto;
-    display: block;
+    
     }
 /*section*/
 #drie{
