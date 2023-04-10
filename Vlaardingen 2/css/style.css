@@ -9,7 +9,7 @@ body{background-color: azure;
     }
 @media only screen and (max-width:600px){
 body{background-color: beige;}
-h1{min-width: 100%}
+
 
     [class*="col-"]
     {
