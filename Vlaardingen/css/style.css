@@ -1,7 +1,7 @@
 /*pagina index*/
 /*kolom en media*/
 
-    [class*="col-"]{
+[class*="col-"]{
     width: 100%;
     height: auto;
     }
@@ -9,6 +9,8 @@ body{background-color: azure;
     }
 @media only screen and (max-width:600px){
 body{background-color: beige;}
+
+
     [class*="col-"]
     {
     padding: 5px;
@@ -45,12 +47,13 @@ header{
     height: auto;
 }
 /*img*/
- #hpt{
-    
-    border-radius: 8px;
-    border-width: 2px;
+ .hpt{
+    height: 378px;
+    width: 624px;
+    border-width: 1px;
     border-color: black;
     border-style: ridge;
+    border-radius: 2px;
  }
 /*ol*/
 ol li{
@@ -155,4 +158,3 @@ float: right;
     padding-left: 20px;
     
 }
-
