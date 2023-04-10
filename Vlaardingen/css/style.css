@@ -39,7 +39,7 @@ color:rgb(0, 21, 139);
 text-shadow: -2px 2px 2px rgb(90, 114, 255);
 position: absolute;
 top: -60px;
-left: 32%;
+left: 34%;
 
 }
 header{
@@ -54,6 +54,7 @@ header{
     border-color: black;
     border-style: ridge;
     border-radius: 2px;
+    display:inline;
  }
 /*ol*/
 ol li{
