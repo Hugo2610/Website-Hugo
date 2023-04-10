@@ -80,6 +80,7 @@ h2{
 /*div*/
 #twee {
     margin-top: 5px;
+    margin-right: 15px;
     background-color:rgb(59, 62, 255);
     border-style: ridge;
     border-width: 2px;
@@ -91,8 +92,7 @@ h2{
 /*div*/
 #vier{
     display: inline;
-    
-}
+    }
 /*div*/
 .kolom{  
 background-color: rgb(99, 136, 255);
@@ -135,24 +135,21 @@ float: right;
     color: rgb(17, 0, 255);
  } 
  footer{
-    clear: left;
-    min-width: 100%;
     clear: right;
     font-family: 'Bangers', cursive;
     font-family: 'Kalam', cursive;
-     background-color: rgb(59, 62, 255);
+    background-color: rgb(59, 62, 255);
     font-size: 13px;
+    clear: left;
     color: antiquewhite;
     border-style: ridge;
     border-width: 2px;
     border-color: rgb(120, 150, 160);
     border-radius: 6px;
     margin-top: 540px;
-    margin-right: 10px;    
+    margin-right: 15px;    
     height: 40px;
-    
-
-}
+    }
 /*p*/
 #lit{
     padding-left: 20px;
