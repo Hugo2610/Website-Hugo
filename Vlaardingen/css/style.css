@@ -49,7 +49,7 @@ header{
 /*img*/
  .hpt{
     height: 378px;
-    width: 623px;
+    width: 619px;
     border-width: 1px;
     border-color: black;
     border-style: ridge;
@@ -149,7 +149,7 @@ float: right;
     margin-top: 600px;
     margin-right: 15px;    
     height: 40px;
-    min-width: 99%;
+    
     }
 /*p*/
 #lit{
