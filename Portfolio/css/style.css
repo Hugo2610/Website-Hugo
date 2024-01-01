@@ -7,7 +7,6 @@
     margin: 15px;
     
      box-shadow: 0px 0px 15px rgb(28, 28, 160);
-    margin-top: 30px;
     height: 100px;
     font-style: oblique;
     font-size: 2rem;
@@ -70,14 +69,13 @@
     text-align: center;
     margin-top: 3rem;
     color: blue;
-    margin-bottom: 7rem;
+    margin-bottom: 5rem;
 }
 .txa{
     float: right;
     position: absolute;
-    left: 94.6rem;
+    left: 94.2rem;
     top: 1.5rem;
-  /*  box-shadow: 0px 0px 0px white;*/
     border-radius: 1rem;
     
 }
@@ -97,16 +95,25 @@
     border-radius: 5px;
     border-style: none;
     padding-top: 0.75rem;
-    
-    
- }
+    }
 .ftp{
     color: rgb(255, 255, 255);
     margin-left: 1rem;
 }
 .spm{
-    height: 3.6rem;
+    height: 1.5rem;
 }
+.cvb{
+    font-size: 1.5rem;
+    border: 1px;
+    border-style: ridge;
+    border-radius: 3px;
+    padding: 10px;
+    font-style: oblique;
+    text-shadow: 0px 0px 4px rgb(255, 255, 255);
+}
+
+
 /*page2*/
 .logo{
    
