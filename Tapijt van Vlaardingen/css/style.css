@@ -1,7 +1,7 @@
 .bgr{
     background-color: rgb(207, 168, 60);
     text-align: center;
-    height: 185px;
+    height: auto;
     border-radius: 3px;
     position: fixed;
     width: 99%;
@@ -16,6 +16,7 @@
     text-shadow: 2px 2px 4px brown;
     margin-top: 10px;
     position: relative;
+
   }
   .aaa{
     float: left;
@@ -37,8 +38,8 @@
     font-family: "Great Vibes", cursive;
     font-size: 2rem;
     text-shadow: 0.5px 0.5px 1px rgb(160, 0, 0);
-   /* text-shadow: 0.5px 0.5px 1px rgb(0, 190, 0);*/
 }
+
 .aac{
   float: left;
     margin-left: 15px;
@@ -126,6 +127,7 @@
 }
 .ruim{
   height: 190px;
+  
 }
 .maat{
    
