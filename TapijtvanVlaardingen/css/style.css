@@ -142,9 +142,7 @@
 .position{
   float: right;
 }
-#middel{
-    margin-left: 430px;
-}
+
 #ruimte{
   height: 215px;
 }
@@ -182,6 +180,9 @@
   border-color: brown;
 }
 
+.post{
+  margin: 1rem;
+}
 .positie{
   
   margin-left: 30px;
@@ -206,6 +207,11 @@
   margin-left: 2rem;
    margin-top: 1rem;
   }
+.vervorm{
+  font-size: 2rem;
+  color:green ;
+  text-shadow: 0px 0px 2px greenyellow;
+}
 
   
 
@@ -225,11 +231,13 @@ a{
 /* jaarverslagen*/
 .finjrvsl{
   background-color: white;
+  margin-left: 2rem;
+  margin-right:2rem ;
 }
 
  /* tabellen*/
 table{
-   
+  
   width: 50%;
 }
 td, th{
