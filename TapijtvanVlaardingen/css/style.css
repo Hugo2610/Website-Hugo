@@ -254,7 +254,7 @@ td, th{
 
 
  /* For mobile phones: */
-
+/*
 [class*="col-"] {
   width: 100%;
 } 
@@ -358,7 +358,7 @@ float: none;
   .col-12 {width: 100%;}
 }
 
-
+*/
 
 
 
