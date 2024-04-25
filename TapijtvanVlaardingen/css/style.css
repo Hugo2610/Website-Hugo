@@ -5,7 +5,6 @@
     height: auto;
     border-radius: 3px;
     position: fixed;
-    width: 99%;
     border-style: ridge;
     border-color: brown;
     
@@ -17,7 +16,8 @@
     text-shadow: 2px 2px 4px brown;
     margin-top: 10px;
     position: relative;
- 
+    padding-right: 32rem;
+    padding-left: 32rem;
   }
   .aaa{
     float: left;
