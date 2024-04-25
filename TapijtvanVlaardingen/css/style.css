@@ -1,22 +1,23 @@
 
-.bgr{
-    background-color: rgb(207, 168, 60);
-    border-radius: 3px;
-   /* position: fixed;*/
-    border-style: ridge;
-    border-color: brown;
+
+   
     
+nav{
+  background-color: rgb(219, 204, 162);
+border-radius: 3px;
+/*border-style: ridge;*/
+border-color: brown;
 }
 .koptext {
     text-align: center;
     font-family: "Great Vibes", cursive;
-    font-size: 5rem;
+    font-size: 5.5rem;
     margin-bottom: -1.2rem;
-    /*display: inline;*/
-    text-shadow: 2px 2px 4px brown;
+    text-shadow: 1px 1px 4px greenyellow;
     margin-top: 10px;
     padding-right: 32rem;
     padding-left: 32rem;
+    clear: inherit;
   }
   
   .kleur{
@@ -28,7 +29,7 @@
     color: rgb(0, 0, 0);
     font-family: "Great Vibes", cursive;
     font-size: 2rem;
-    text-shadow: 0.5px 0.5px 1px rgb(160, 0, 0);
+    text-shadow: 0.5px 0.5px 1px greenyellow;
     
   }
   /*.tussenruimte{
@@ -39,15 +40,15 @@
   }
   .balk{
     border-radius: 3px;
-    height: 3rem;
-    background-color: rgb(207, 168, 60);
+    height: 2.5rem;
+    background-color: rgb(219, 204, 162);
     text-align: center;
     font-family: "Great Vibes", cursive;
     text-shadow: 0.5px 0.5px 1px black;
     font-size: 2.5rem;
     text-shadow: 3px 3px 5px brown;
-    border-style: ridge;
-    border-color: brown;
+    /*border-style: ridge;
+    border-color: brown;*/
   }
 .kenmerk{
     color: green;
@@ -57,16 +58,18 @@
 }
 
 .ttx{
+
+  font-family: "Great Vibes", cursive;
   text-align: center;
-  color:green;
-  font-size: 30px; 
-  text-shadow: 0px 0px 2px greenyellow;
+  color:black;
+  font-size: 36px; 
+  text-shadow: 0px 0px 3px greenyellow;
 }
 
 .ttt{
     text-align: center;
     color:green;
-    font-size: 22px;
+    font-size: 25px;
   }
   .midpos{
     margin-left: 650px;
@@ -133,14 +136,14 @@
 .afscheiding{
   border-radius: 3px;
   height: 8px;
-  background-color: rgb(207, 168, 60);
+  background-color: rgb(219, 204, 162);
   text-align: center;
   font-family: "Great Vibes", cursive;
   text-shadow: 0.5px 0.5px 1px black;
   font-size: 3rem;
   text-shadow: 3px 3px 5px brown;
-  border-style: ridge;
-  border-color: brown;
+  /*border-style: ridge;
+  border-color: brown;*/
 }
 
 .post{
@@ -154,15 +157,15 @@
   float: right;
 }
   footer{
-    background-color: rgb(207, 168, 60);
+    background-color: rgb(219, 204, 162);
     height: 7.5rem;
     border-radius: 3px;
     color: black;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem;
     text-shadow: 0.5px 0.5px 1px brown;
-    border-style: ridge;
-    border-color: brown;
+   /* border-style: ridge;
+    border-color: brown;*/
  }
  .blok{
   width: auto;
