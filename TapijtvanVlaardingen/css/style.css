@@ -288,7 +288,7 @@ width: 100%;
 } 
  @media only screen and (min-width: 600px){
   [class*="col-"] {
-width: auto;
+width: 100%;
 }
 .col-1 {width: 8.33%;}
   .col-2 {width: 16.66%;}
