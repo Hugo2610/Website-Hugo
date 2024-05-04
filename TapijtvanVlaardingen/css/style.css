@@ -80,9 +80,9 @@ border-color: brown;
     text-align: center;
     color: brown;
     font-size: 1.25rem;
-    padding-left: 3.25rem;
-    padding-right: 3.25rem;
-    width: auto;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    
 }
 
 .rtr{
