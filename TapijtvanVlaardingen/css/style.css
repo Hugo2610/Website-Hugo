@@ -58,6 +58,7 @@ border-color: brown;
 
 .ttx{
  display: block;
+ width: auto;
   font-family: "Great Vibes", cursive;
   text-align: center;
   color:black;
@@ -83,6 +84,7 @@ border-color: brown;
     margin-left: 1rem;
     margin-right: 1rem;
     display: block;
+    width: auto;
 }
 
 .rtr{
