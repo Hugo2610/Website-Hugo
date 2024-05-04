@@ -72,7 +72,7 @@ border-color: brown;
   }
   .midpos{
     padding-left: 40.625rem;
-    
+    display: block;
   }
 .ttr{
     text-align: center;
