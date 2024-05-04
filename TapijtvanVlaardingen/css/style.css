@@ -71,7 +71,8 @@ border-color: brown;
     font-size: 1.56rem;
   }
   .midpos{
-    margin-left: 40.625rem;
+    padding-left: 40.625rem;
+    
   }
 .ttr{
     text-align: center;
