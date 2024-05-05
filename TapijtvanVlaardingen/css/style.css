@@ -58,12 +58,14 @@ border-color: brown;
 
 .ttx{
  display: block;
- width: auto;
   font-family: "Great Vibes", cursive;
   text-align: center;
   color:black;
   font-size: 36px; 
   text-shadow: 0px 0px 3px greenyellow;
+}
+.breedte{
+ max-width: auto;
 }
 
 .ttt{
