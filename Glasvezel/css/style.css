@@ -1,0 +1,82 @@
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    margin-bottom: 20px;
+    
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+    
+  }
+
+  img{
+    width: 250px;
+    height: 250px;
+  }
+  h1{
+    text-align: center;
+    padding: 1rem;
+    color: orangered;
+    font-size: 3rem;
+  }
+header{
+    border-style: groove;
+    border-color: orangered;
+}
+
+  h2{
+    text-align: center;
+  }
+  P{
+    text-align: center;
+    
+  }
+  u{
+    color: orangered;
+  }
+  .size{
+    border-style: initial;
+    margin-left: 50px;
+    width: 320px;
+    height: 480px;
+    box-shadow: 0px 0px 5px black;
+    margin-bottom: 20px;
+    text-align: center;
+    color: orangered;
+    font-size: 25px;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 12px;
+  }
+  .omvang{
+    margin-left: 380px;
+  }
+  #grote{
+    text-align: center;
+     font-size: large;
+}
+  nav{
+     background-color: orangered;
+  }
+  footer{
+    height: 2rem;
+    border-style: groove;
+    border-color: orangered; 
+  }
+  a{
+  font-size: 25px;
+  margin-left: 30px;
+  color: black;
+  }
+  #ruimte{
+    height: 210px;
+  }
+ #accordion{
+    background-color: orangered;
+    margin-left: 86px;
+    width: 90%;
+    
+    
+  }
