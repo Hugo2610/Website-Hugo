@@ -40,11 +40,12 @@ li {
     float: left;
   }
   li a {
-    display: block;
+    /*display: block;*/
     color: white;
     text-align: center;
-    padding: 10px 37px;
+    padding: 15px 37px;
     text-decoration: none;
+    
   }
   li a:hover {
     background-color: brown;
