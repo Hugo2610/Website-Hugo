@@ -1,6 +1,7 @@
 
 [class*="col-"] {
-  width: 100%;
+  width: fit-content;
+  float: left;
 }
 
 @media only screen and (min-width: 768px) {
@@ -39,8 +40,8 @@ ul {
 li {
     float: left;
   }
-  li a {
-    /*display: block;*/
+ li a {
+    display: block;
     color: white;
     text-align: center;
     padding: 15px 37px;
@@ -145,10 +146,7 @@ li {
 * {
   box-sizing: border-box;
 }
-[class*="col-"] {
-  float: left;
-  
-}
+
 .aside {
   padding: 15px;
   }
