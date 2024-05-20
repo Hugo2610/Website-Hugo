@@ -1,4 +1,5 @@
-[class*="col-"]{
+[class*="col-"]
+body{
     width: 100%;
     }
     @media only screen and (min-height: 768px){
