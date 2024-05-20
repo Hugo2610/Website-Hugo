@@ -2,7 +2,7 @@
    {
     width: 100%;
     float: left;
-    display: block;
+    
     }
     @media only screen and (min-height: 768px){
     [class*="col-"] {
