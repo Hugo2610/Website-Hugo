@@ -1,4 +1,9 @@
 
+[class*="col-"]
+{
+    width: 100%;
+    float: left;
+}
     header{
         background-color: rgb(255, 123, 0);
         text-align: center;
@@ -101,11 +106,7 @@
     box-sizing: border-box;
   }
 
-  [class*="col-"]
-{
-    width: 100%;
-    float: left;
-    }
+ 
    
     @media only screen and (min-width: 768px){
     
