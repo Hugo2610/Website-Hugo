@@ -5,17 +5,21 @@
         color: white;
         padding: 50px;
     }
-    nav{
+    .nav {
         background-color: rgb(187, 79, 40);
         color: white;
-        padding: 10px;
+        float: left;
+        display: block;    
     }
-    a{
-        text-decoration: none;
-        padding-left: 45px;
-        color: white;
-        font-size: 1.55rem;
-     }
+    a {
+    text-decoration: none;
+    font-size: 1.55rem;
+     color: white;
+     padding: 10px 20px;
+    }
+    a:hover {
+      color: black;
+    }
      .algpad{
         padding-left: 15px;
      }
@@ -93,14 +97,21 @@
   textarea{
     height: 300px;
   }
-  
+  * {
+    box-sizing: border-box;
+  }
+
   [class*="col-"]
-   {
+{
     width: 100%;
     float: left;
     
     }
-    @media only screen and (min-height: 768px){
+    @media only screen and (max-width: 600px){
+    [class*="col-"]{
+    
+   }
+    @media only screen and (min-width: 768px){
     [class*="col-"] {
      width: 100%;     
     }        
@@ -116,4 +127,6 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
+    
+}
     }
