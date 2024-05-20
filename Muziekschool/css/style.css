@@ -1,6 +1,7 @@
 [class*="col-"]
 body{
     width: 100%;
+    display: block;
     }
     @media only screen and (min-height: 768px){
     [class*="col-"] {
