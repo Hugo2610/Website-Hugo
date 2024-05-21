@@ -105,7 +105,7 @@
         body{
             width: 100%;
             font-size: 1rem;
-
+            float: left;
         }
         img{
             width: auto;
