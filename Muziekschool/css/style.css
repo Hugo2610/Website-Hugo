@@ -117,12 +117,18 @@
         .col-12{
             width: 100%;
         }
+        nav{
+            text-align: center;
+        }
          a{
             display: block;
-            text-align: center;
+            
         }
          .col-7{
             display: block;
+         }
+         h1{
+            font-size: none;
          }
      }
       
