@@ -111,19 +111,14 @@
         header{
             
             display: block;
-           padding-left: 20px;
-           padding-right: 20px;
+           text-align: center;
         }
-         .nav{
-            text-align: center;
+        /* .nav{
             
-           display: block;
-        }
-           a{
-             
             width: 100%;
-            
-        }
+           display: block;
+        }*/
+           
         .kleurregel{
             display: inline;
             height: 1px;
@@ -147,10 +142,10 @@
             width: fit-content;
     }
          h1{
-            font-size: 20px;
+            font-size: 16px;
          }
          h2{
-            font-size: 16px;
+            font-size: 12px;
          }
          .footer{
             width: 100%;
