@@ -109,7 +109,9 @@
        width: 100%;
        display: block;
       }
-  
+  .container{
+    display: block;
+  }
 
     @media  (min-width: 768px){
     
