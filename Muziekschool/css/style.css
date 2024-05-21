@@ -124,11 +124,17 @@
             display: block;
             
         }
+        .col-3{
+            display: block;
+        }
          .col-7{
             display: block;
          }
          h1{
-            font-size: none;
+            font-size: 1.5rem;
+         }
+         h2{
+            font-size: 1.3rem;
          }
      }
       
