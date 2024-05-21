@@ -108,6 +108,9 @@
             
             float: left;
         }
+        header{
+            width: 100%;
+        }
         img{
             width: auto;
         }
@@ -116,7 +119,11 @@
         }
          a{
             display: block;
+            text-align: center;
         }
+         .col-7{
+            display: block;
+         }
      }
       
   
