@@ -102,15 +102,15 @@
   * {
     box-sizing: border-box;
   }
-  [class*="col-"]
+  
+     @media (max-width: 600px) {
+        
+      [class*="col-"]
   body{
       width: 100%;
+      display: block;
       }
-     @media (max-width: 600px) {
-      .col-3{
-        display: block;
       }
-     } 
   
 
     @media  (min-width: 768px){
