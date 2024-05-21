@@ -111,11 +111,11 @@
         header{
             
             display: block;
-            
+            width: 100%;
         }
          nav{
             text-align: center;
-            width: 100%;
+            
            
         }
          a{
