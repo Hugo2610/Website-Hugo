@@ -106,9 +106,11 @@
   body{
       width: 100%;
       }
-      a{
+     @media (max-width: 600px) {
+      .col-3{
         display: block;
-    }
+      }
+     } 
   
 
     @media  (min-width: 768px){
