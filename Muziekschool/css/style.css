@@ -125,6 +125,8 @@
         }
         .kleurregel{
             display: inline;
+            height: 1px;
+            background-color: yellow ;
         }
 
         .col-12{
@@ -132,12 +134,12 @@
             display: block;
         }
         .col-3{
-            width: 90%;
-            font-size: 12px;
+            width: 100%;
+            font-size: 8px;
         }
         .col-7{
-            width: 90%;
-            font-size: 12px;
+            width: 100%;
+            font-size: 8px;
         }
          
         img{
