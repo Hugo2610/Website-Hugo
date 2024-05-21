@@ -1,9 +1,6 @@
 
-[class*="col-"]
-{
-    width: 100%;
-    float: left;
-}
+
+
     header{
         background-color: rgb(255, 123, 0);
         text-align: center;
@@ -49,7 +46,7 @@
         padding-left: 23px;
     }
     .container{
-        display: inline-block;
+        display: flex;
     }
     .blok2{
         padding-left: 15px;
@@ -105,10 +102,24 @@
   * {
     box-sizing: border-box;
   }
+  [class*="col-"]
+  {
+      width: 100%;
+      float: left;
+      
+  }
 
+
+  @media (max-width: 600px){
+    body{
+        width: 100%;
+        float: left;
+        display: block;
+    }
+  }
  
    
-    @media only screen and (min-width: 768px){
+    @media  (min-width: 768px){
     
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
