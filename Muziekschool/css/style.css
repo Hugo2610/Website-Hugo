@@ -120,7 +120,7 @@
         }*/
            
         .kleurregel{
-            display: inline;
+            
             height: 1px;
             background-color: yellow ;
         }
@@ -139,12 +139,8 @@
         img{
             width: fit-content;
     }
-         h1{
-            font-size: 16px;
-         }
-         h2{
-            font-size: 12px;
-         }
+        
+         
          .footer{
             width: 100%;
             display: block;
