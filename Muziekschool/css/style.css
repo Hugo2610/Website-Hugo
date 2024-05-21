@@ -111,17 +111,17 @@
         header{
             width: auto;
             display: block;
-
+            padding: none;
         }
         img{
-            width: auto;
+            width: fit-content;
             
         }
         
         nav{
             text-align: center;
             width: 100%;
-            
+            float: none;
         }
          a{
             display: block;
