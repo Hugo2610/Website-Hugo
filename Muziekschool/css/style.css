@@ -102,21 +102,19 @@
   
   
      @media all and (max-width: 600px){
-       /* body{
+        body{
             width: 100%;
             font-size: 1rem;
             
             float: left;
-        }*/
+        }
         header{
             width: 100%;
         }
         img{
             width: auto;
         }
-        .col-12{
-            width: 100%;
-        }
+       
         nav{
             text-align: center;
             width: 100%;
