@@ -105,7 +105,7 @@
   [class*="col-"]
   body{
       width: 100%;
-      float: left;}
+      }
       a{
         display: block;
     }
