@@ -11,7 +11,7 @@
         background-color: rgb(187, 79, 40);
         color: white;
         float: left;
-        display: block;    
+        display: flex;    
     }
     a {
     text-decoration: none;
@@ -108,7 +108,7 @@
       [class*="col-"]
   body{
       
-      float: left;
+      vertical-align: middle;
       
       }
       }
