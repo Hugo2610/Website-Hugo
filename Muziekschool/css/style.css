@@ -109,8 +109,9 @@
             float: left;
         }
         header{
-            width: 100%;
+            width: auto;
             display: block;
+
         }
         img{
             width: auto;
@@ -120,10 +121,12 @@
         nav{
             text-align: center;
             width: 100%;
+            
         }
          a{
             display: block;
             width: 100%;
+
         }
     
          h1{
