@@ -115,7 +115,7 @@
         }
          .nav{
             text-align: center;
-         /*   width: 100%;*/
+            width: 100%;
            display: block;
         }
            a{
@@ -124,7 +124,7 @@
             
         }
         .kleurregel{
-            display: block;
+            display: inline;
         }
 
         .col-12{
@@ -132,11 +132,11 @@
             display: block;
         }
         .col-3{
-            width: 100%;
+            width: 90%;
             
         }
         .col-7{
-            width: 100%;
+            width: 90%;
             
         }
          
