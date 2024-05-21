@@ -108,7 +108,8 @@
       [class*="col-"]
   body{
       width: 100%;
-      display: block;
+      float: left;
+      display: inline;
       }
       }
   
