@@ -118,6 +118,9 @@
             
            
         }
+        .col-12{
+            width: fit-content;
+        }
          a{
              display: block;
             width: 100%;
