@@ -127,6 +127,14 @@
         .col-12{
             width: fit-content;
         }
+        .col-3{
+            width: 100%;
+            display: block;
+        }
+        .col-7{
+            width: 100%;
+            display: block;
+        }
          
         img{
             width: fit-content;
