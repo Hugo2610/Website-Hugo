@@ -126,11 +126,11 @@
             
         }
         .col-3{
-            display: block;
+            
             width: 100%;
         }
          .col-7{
-            display: block;
+            
             width: 100%;
          }
          h1{
@@ -138,6 +138,9 @@
          }
          h2{
             font-size: 1.3rem;
+         }
+         footer{
+            width: 100%;
          }
      }
       
