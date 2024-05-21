@@ -106,6 +106,7 @@
             width: 100%;
             font-size: 1rem;
             display: block;
+            float: left;
         }
         img{
             width: auto;
