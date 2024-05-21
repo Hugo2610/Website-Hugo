@@ -104,7 +104,7 @@
      @media all and (max-width: 600px){
         body{
          /*   width: 100%;*/
-            font-size: 1rem;
+            font-size: 12px;
             display: block;
             
         }
@@ -115,12 +115,12 @@
         }
          nav{
             text-align: center;
-            width: 100%;
-           
+         /*   width: 100%;*/
+           display: block;
         }
            a{
-             display: block;
-           /* width: 100%;*/
+             
+            width: fit-content;
 
         }
 
