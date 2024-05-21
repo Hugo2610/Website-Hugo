@@ -99,11 +99,9 @@
   textarea{
     height: 300px;
   }
-  * {
-    box-sizing: border-box;
-  }
   
-     @media (max-width: 600px){
+  
+     @media all and (max-width: 768px){
         body{
             width: 100%;
             display: block;
