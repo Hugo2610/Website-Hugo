@@ -102,12 +102,12 @@
   
   
      @media all and (max-width: 600px){
-        body{
+       /* body{
             width: 100%;
             font-size: 1rem;
             
             float: left;
-        }
+        }*/
         header{
             width: 100%;
         }
