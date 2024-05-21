@@ -114,7 +114,9 @@
         img{
             width: auto;
         }
-       
+        .col-12{
+            width: 100%;
+        }
         nav{
             text-align: center;
             width: 100%;
@@ -128,7 +130,7 @@
             width: 100%;
         }
          .col-7{
-            
+            display: block;
             width: 100%;
          }
          h1{
