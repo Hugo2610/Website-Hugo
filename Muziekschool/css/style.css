@@ -11,7 +11,7 @@
         background-color: rgb(187, 79, 40);
         color: white;
         float: left;
-        display: flex;    
+        display: block;    
     }
     a {
     text-decoration: none;
@@ -103,15 +103,14 @@
     box-sizing: border-box;
   }
   
-     @media (max-width: 600px) {
+     @media (max-width: 600px){
+        body{
+            width: 100%;
+            display: block;
+        }
      }
-      [class*="col-"]{
-       width: 100%;
-       display: block;
-      }
-  .container{
-    display: block;
-  }
+      
+  
 
     @media  (min-width: 768px){
     
