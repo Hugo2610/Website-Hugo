@@ -104,13 +104,9 @@
   }
   
      @media (max-width: 600px) {
-        
-      [class*="col-"]
-  body{
-      
-      vertical-align: middle;
-      
-      }
+     }
+      [class*="col-"]{
+       width: 100%;
       }
   
 
