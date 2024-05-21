@@ -103,7 +103,7 @@
   
      @media all and (max-width: 600px){
         body{
-            width: 100%;
+          /*  width: 100%;*/
             font-size: 12px;
             display: block;
             
@@ -111,9 +111,9 @@
         header{
             
             display: block;
-            width: max-content;
+            width: 100%;
         }
-         nav{
+         .nav{
             text-align: center;
          /*   width: 100%;*/
            display: block;
@@ -122,6 +122,9 @@
              
             width: 100%;
             
+        }
+        .kleurregel{
+            display: block;
         }
 
         .col-12{
