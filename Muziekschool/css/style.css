@@ -117,7 +117,7 @@
             width: 99%;
            display: block;
         }*/
-        nav{
+        nav a{
             text-align: center;
             width: fit-content;
             display: block;
@@ -134,10 +134,10 @@
             
         }
         .col-3{
-            width: 120%;
+            width: 99%;
             }
         .col-7{
-            width: 120%;
+            width: 99%;
             }
          
         img{
