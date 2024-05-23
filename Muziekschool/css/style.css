@@ -134,14 +134,14 @@
             display: block;
         }
         .col-3{
-            width: 99%;
+            width: 100%;
             }
         .col-7{
-            width: 99%;
+            width: 100%;
             }
          
         img{
-            width: 99%;
+            width: fit-content;
     }
         
          
