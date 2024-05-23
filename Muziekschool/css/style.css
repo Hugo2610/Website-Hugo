@@ -134,7 +134,7 @@
             display: block;
         }
         .col-3{
-            width: 100%;
+            width: fit-content;
         
         
         }
