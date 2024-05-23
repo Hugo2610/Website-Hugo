@@ -224,8 +224,12 @@ td, th{
 }
 
 @media all and (max-width: 600px){
-  iframe img{
+  iframe {
     width: fit-content;
+    vertical-align: middle;
+  }
+  img{width: fit-content;
+    vertical-align: middle;
   }
 }
  
