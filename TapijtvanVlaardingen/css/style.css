@@ -233,16 +233,23 @@ td, th{
   }
   .afstanden{
     width: 90%;
+    margin: none;
 
   }
   .verdelingen{
     vertical-align: middle;
+    margin: none;
   }
   .verdeling{
      vertical-align: middle;
+     margin: none;
   }
   .verdel{
     vertical-align: middle;
+    margin: none;
+  }
+  .positie{
+    width: 50%;
   }
 }
  
