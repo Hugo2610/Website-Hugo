@@ -231,6 +231,19 @@ td, th{
   img{width: 90%;
     vertical-align: middle;
   }
+  .afstanden{
+    width: 90%;
+
+  }
+  .verdelingen{
+    vertical-align: middle;
+  }
+  .verdeling{
+     vertical-align: middle;
+  }
+  .verdel{
+    vertical-align: middle;
+  }
 }
  
 
