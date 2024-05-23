@@ -130,7 +130,7 @@
         }
 
         .col-12{
-            width: 100%;
+            width: fit-content;
             display: block;
         }
         .col-3{
