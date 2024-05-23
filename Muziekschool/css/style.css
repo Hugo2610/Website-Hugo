@@ -104,7 +104,9 @@
   
      @media all and (max-width: 600px){
       
-        
+     .col-12{
+        display: block;
+     }   
         
 }     
        
