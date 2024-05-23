@@ -108,7 +108,9 @@
         display: block;
      }   
      .verspringen{
-        width:auto;
+        width: fit-content;
+        float: left;
+        margin-left: 5px;
      }   
      header{
         text-align: center;
