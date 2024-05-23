@@ -109,9 +109,9 @@
      }   
      .img{
         width: 90%;
-        height: auto;
+        
         float: left;
-       
+        margin-left: 2px;
      }   
      header{
         text-align: center;
