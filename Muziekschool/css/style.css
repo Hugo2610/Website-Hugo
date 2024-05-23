@@ -119,9 +119,9 @@
         padding-right: 1px;
      }
      a{
-        display: block;
+        display: flex;
         text-align: center;
-        width: 100%;
+        
         margin-left: 1px;
         margin-right: 1px;
         
