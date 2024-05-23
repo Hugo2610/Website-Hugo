@@ -108,7 +108,7 @@
         display: block;
      }   
      .img{
-        width: 85%;
+        width: 90%;
         padding-left: 0px;
         float: left;
         margin-left: 1px;
@@ -122,8 +122,13 @@
         display: block;
         
      }
-}     
-       
+     .size{
+     width: 90%;
+     padding-left: 0px;
+     float: left;
+     margin-left: 1px;
+     }
+  }     
          
          
      
