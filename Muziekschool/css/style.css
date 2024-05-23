@@ -122,13 +122,19 @@
             height: 2px;
             background-color: yellow ;
         }
-
-       
+   .col-12{
+    display: block;
+   }
+     .col-3{
+        display: block;
+     } 
+     .col-7{display: block;
+    } 
        
         
          
         img{
-            width: 90%;
+            width: fit-content;
     }
         
          
