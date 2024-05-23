@@ -131,10 +131,10 @@
 
         .col-12{
             width: 100%;
-            display: block;
+            
         }
         .col-3{
-            width: fit-content;
+            width: 100%;
         
         
         }
@@ -143,12 +143,12 @@
             }
          
         img{
-            width: fit-content;
+            width: 95%;
     }
         
          
-         .footer{
-            width: fit-content;
+         footer{
+            width: 100%;
             
          }
          
