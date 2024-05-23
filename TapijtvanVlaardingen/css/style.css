@@ -223,7 +223,11 @@ td, th{
  display: block;
 }
 
-
+@media all and (max-width: 600px){
+  iframe img{
+    width: fit-content;
+  }
+}
  
 
 
