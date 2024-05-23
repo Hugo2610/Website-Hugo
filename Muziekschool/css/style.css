@@ -108,9 +108,8 @@
         display: block;
      }   
      .img{
-        width: 100px;
-        height: auto;
-        
+        width: 80%;
+        padding-left: 0px;
         float: left;
         margin-left: 1px;
      }   
