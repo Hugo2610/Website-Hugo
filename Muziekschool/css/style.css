@@ -108,15 +108,20 @@
             
         }*/
         header{
-            
+            width: 99%;
             display: block;
            text-align: center;
         }
         /* .nav{
             
-            width: 100%;
+            width: 99%;
            display: block;
         }*/
+        a{
+            text-align: center;
+            width: 99%;
+            display: block;
+        }
            
         .kleurregel{
             
