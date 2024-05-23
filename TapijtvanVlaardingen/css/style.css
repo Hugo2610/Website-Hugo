@@ -225,11 +225,11 @@ td, th{
 
 @media all and (max-width: 600px){
   iframe {
-    width: fit-content;
-    vertical-align: middle;
+    width: 60%;
+    
   }
-  img{width: fit-content;
-    vertical-align: middle;
+  img{width: 60%;
+    
   }
 }
  
