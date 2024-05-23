@@ -233,23 +233,30 @@ td, th{
   }
   .afstanden{
     width: 90%;
-    margin: none;
+    margin: 1rem;
+    vertical-align: middle;
 
   }
   .verdelingen{
     vertical-align: middle;
     margin: none;
+    float: left;
   }
   .verdeling{
      vertical-align: middle;
      margin: none;
+     float: left;
   }
   .verdel{
     vertical-align: middle;
     margin: none;
+    float: left;
   }
   .positie{
     width: 50%;
+  }
+  .tpg{
+    text-align: center;
   }
 }
  
