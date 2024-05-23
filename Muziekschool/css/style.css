@@ -109,7 +109,7 @@
         }*/
         header{
             width: fit-content;
-            display: block;
+            
            text-align: center;
         }
         /* .nav{
@@ -130,8 +130,8 @@
         }
 
         .col-12{
-            width: 99%;
-            display: block;
+            width: 100%;
+            
         }
         .col-3{
             width: 100%;
