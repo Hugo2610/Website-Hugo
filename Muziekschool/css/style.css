@@ -103,12 +103,15 @@
   
      @media all and (max-width: 600px){
       
-        
+        .header{
+            width: 100%;
+
+        }
         
         
         .nav {
             text-align: center;
-            display: block;
+            
             
         }
            
@@ -116,6 +119,7 @@
          width: 100%;  
          height: 3px;
          background-color: yellow ;
+         display: block;
         }
         div{
             display: block;
@@ -126,11 +130,11 @@
         
         .col-3{
          width: 100%;
-        display: block; 
+       
         } 
         .col-7{
          width: 100%;
-         display: block;
+         
         } 
        
         
