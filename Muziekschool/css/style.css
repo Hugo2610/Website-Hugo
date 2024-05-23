@@ -108,13 +108,15 @@
         display: block;
      }   
      .img{
-        width: 80%;
+        width: 85%;
         padding-left: 0px;
         float: left;
         margin-left: 1px;
      }   
-     h1{
+     .header{
         text-align: center;
+        padding-left: 1px;
+        padding-right: 1px;
      }
      a{
         display: block;
