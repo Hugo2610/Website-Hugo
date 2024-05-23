@@ -103,13 +103,13 @@
   
      @media all and (max-width: 600px){
       
-        header{
-            
+        .header{
+            width: 100%;
             margin: none;
            text-align: center;
         }
         
-        .nav a{
+        .nav {
             text-align: center;
             width: fit-content;
             display: block;
