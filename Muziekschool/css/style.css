@@ -107,7 +107,12 @@
      .col-12{
         display: block;
      }   
-        
+     img{
+        width: fit-content;
+     }   
+     header{
+        text-align: center;
+     }
 }     
        
          
