@@ -103,11 +103,8 @@
   
      @media all and (max-width: 600px){
       
-        .header{
-            
-            margin: none;
-           text-align: center;
-        }
+        
+        
         
         .nav {
             text-align: center;
@@ -124,10 +121,9 @@
             display: block;
         }
 
-        .col-12{
-         display: block;
+        
 
-        }
+        
         .col-3{
          width: 100%;
          
@@ -142,11 +138,11 @@
             width: 90%;
     }
         
-         
+}     
        
          
          
-     }
+     
       
   
 
