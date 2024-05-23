@@ -121,7 +121,7 @@
          background-color: yellow ;
          display: block;
         }
-        div{
+        .col-12 {
             display: block;
         }
         
