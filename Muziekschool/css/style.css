@@ -108,7 +108,7 @@
         display: block;
      }   
      .img{
-        width: 95%;
+        width: 99%;
         padding-left: 0px;
         float: left;
         margin-left: 1px;
@@ -122,8 +122,8 @@
         display: flex;
         text-align: center;
         
-        margin-left: 1px;
-        margin-right: 1px;
+        padding-left: 1px;
+        padding-right: 1px;
         
         
      }
