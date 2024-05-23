@@ -130,7 +130,7 @@
         }
 
         .col-12{
-            width: fit-content;
+            width: 99%;
             display: block;
         }
         .col-3{
@@ -146,8 +146,8 @@
         
          
          .footer{
-            width: 100%;
-            display: block;
+            width: 99%;
+            display: inline;
          }
          
          
