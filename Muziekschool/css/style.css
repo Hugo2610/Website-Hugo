@@ -124,16 +124,15 @@
             display: block;
         }
 
-        .col-12{
-         display: block;
+        
 
         }
         .col-3{
-         display: block;
+         width: 100%;
          
         } 
-        .col-7{display: block;
-         
+        .col-7{
+         width: 99%;
         } 
        
         
