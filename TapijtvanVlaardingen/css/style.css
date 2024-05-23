@@ -239,27 +239,29 @@ td, th{
   }
   .verdelingen{
     width: 90%;
-    vertical-align: middle;
+    
     margin: 1rem;
     float: left;
   }
   .verdeling{
     width: 90%;
-     vertical-align: middle;
+     
      margin: 1rem;
      float: left;
   }
   .verdel{
     width: 90%;
-    vertical-align: middle;
+    
     margin: 1rem;
     float: left;
   }
   .positie{
     width: 40%;
+    vertical-align: middle;
   }
   .tpg{
     text-align: center;
+    width: 90%;
   }
 }
  
