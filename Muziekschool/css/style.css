@@ -107,8 +107,8 @@
      .col-12{
         display: block;
      }   
-     img{
-        width: 90%;
+     .verspringen{
+        width: fit-content;
      }   
      header{
         text-align: center;
