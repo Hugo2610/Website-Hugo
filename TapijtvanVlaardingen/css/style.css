@@ -225,10 +225,10 @@ td, th{
 
 @media all and (max-width: 600px){
   iframe {
-    width: 60%;
+    width: 80%;
     
   }
-  img{width: 60%;
+  img{width: 80%;
     
   }
 }
