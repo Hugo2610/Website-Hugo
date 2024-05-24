@@ -173,9 +173,9 @@
         height: 1px;
         margin-bottom: 0px;
       } 
-       .tvbl{padding-top: 30px;
-        
-       }
+       .tvbl{
+        padding-top: 38px;
+        }
     
           
      .size
@@ -200,15 +200,17 @@ h1{
      font-size: 32px;
 }
 p{
-    font-size: 16px;
+    font-size: 12px;
 }
 h2{
     font-size: 20px;
 }
 .col-3{
-    padding-bottom: 30px;
+    padding-bottom: 25px;
 }
-
+.bodemr{
+    padding-bottom: 25px;
+}
   }     
          
          
