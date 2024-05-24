@@ -127,10 +127,11 @@
      } 
      .img2{
         width: 50%;
-        padding-left: 0px;
+        padding-left: 3px;
+        padding-bottom: 8px;
         float: left;
         margin-left: 1px;
-        display: block;
+        display: inline;
      }
      .img3{
         width: 50%;
