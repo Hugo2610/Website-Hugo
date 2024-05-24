@@ -11,8 +11,11 @@
         background-color: rgb(187, 79, 40);
         color: white;
         float: left;
-        display: block;    
+          
     }
+    li {
+        display: inline;
+      }
     a {
     text-decoration: none;
     font-size: 1.55rem;
@@ -27,7 +30,7 @@
      }
     .kleurregel{
         background-color: yellow;
-        padding: 16px 0px;
+        padding: 32px 0px;
        
     }
     footer{
@@ -118,15 +121,21 @@
         padding-left: 1px;
         padding-right: 1px;
      }
-     a{
-        display: flex;
+   /*  a{
+        display:block;
         text-align: center;
         
         padding-left: 1px;
         padding-right: 1px;
-        
-        
-     }
+        }*/
+        li a {
+
+            display: block;
+            width: 60px;
+            
+          }
+          
+          
      .size{
      width: 100%;
      padding-left: 0px;
@@ -134,6 +143,7 @@
      margin-left: 1px;
      margin-right: 1px;
      }
+
 .blok2{
     margin-right: 3px;
 }
