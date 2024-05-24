@@ -13,6 +13,11 @@
         float: left;
           
     }
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 10px 20px;
+      }
     li {
         display: inline;
       }
@@ -20,7 +25,7 @@
     text-decoration: none;
     font-size: 1.55rem;
      color: white;
-     padding: 10px 20px;
+     
     }
     a:hover {
       color: black;
@@ -30,7 +35,7 @@
      }
     .kleurregel{
         background-color: yellow;
-        padding: 32px 0px;
+        padding: 26px 0px;
        
     }
     footer{
@@ -128,15 +133,21 @@
         padding-left: 1px;
         padding-right: 1px;
         }*/
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+          }
         li a {
 
             display: block;
-            width: 60px;
+            width: 100%;
             
           }
           
           
-     .size{
+     .size
+     {
      width: 100%;
      padding-left: 0px;
      float: left;
