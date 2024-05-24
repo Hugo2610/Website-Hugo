@@ -130,8 +130,9 @@
         padding-left: 1px;
         padding-right: 1px;
      }
+
      a{
-        text-align: center;
+        
         }
         ul {
             list-style-type: none;
@@ -144,15 +145,16 @@
             display: block;
             padding-left: 0px;
             padding-right: 0px;
-            
+            text-align: center;
             
           }
 
      .kleurregel{
         height: 1px;
-
-     } 
-
+      } 
+       .col-3{
+        padding-top: 10px;
+       }
     
           
      .size
