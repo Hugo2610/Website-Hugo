@@ -174,7 +174,7 @@
      .kleurregel{
         height: 0.5px;
         padding-bottom: none;
-        margin: none;
+        margin-bottom: -8px;
       } 
        .tvbl{
         padding-top: 38px;
@@ -206,7 +206,7 @@ p{
     font-size: 14px;
 }
 h2{
-    font-size: 22px;
+    font-size: 25px;
 }
 .col-3{
     padding-bottom: 20px;
