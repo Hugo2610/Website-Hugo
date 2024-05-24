@@ -165,7 +165,8 @@
             padding-left: 0px;
             padding-right: 4px;
             text-align: center;
-            
+            padding-top: 3px;
+            padding-bottom: 3px;
           }
 
      .kleurregel{
@@ -196,13 +197,16 @@
     font-size: 16px;
 }
 h1{
-     font-size:95%;
+     font-size: 32px;
 }
 p{
     font-size: 16px;
 }
 h2{
-    font-size: 95%;
+    font-size: 20px;
+}
+.col-3{
+    padding-bottom: 30px;
 }
 
   }     
