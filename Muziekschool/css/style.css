@@ -214,7 +214,7 @@ h2{
     font-size: 23px;
 }
 .beperkt{
-    display: flex;
+    height: fit-content;
 }
 
 
