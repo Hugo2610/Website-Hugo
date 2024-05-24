@@ -147,15 +147,15 @@
         li {
 
             display: block;
-            padding-left: 150px;
-            padding-right: 150px;
-            padding-top: 3px;
-            padding-bottom: 3px;
+            padding-left: 110px;
+            padding-right: 110px;
+            padding-top: 0px;
+            padding-bottom: 0px;
             text-align: center;
           }
 
      .kleurregel{
-        height: 83px;
+        height: 60px;
      }     
           
      .size
