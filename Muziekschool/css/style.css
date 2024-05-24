@@ -130,14 +130,9 @@
         padding-left: 1px;
         padding-right: 1px;
      }
-   /*  a{
-        display:block;
-        padding-top: 3px;
-        padding-bottom: 3px;
-        
-        padding-left: 150px;
-        padding-right: 150px;
-        }*/
+     a{
+        text-align: center;
+        }
         ul {
             list-style-type: none;
             margin: 0;
@@ -150,7 +145,7 @@
             padding-left: 0px;
             padding-right: 0px;
             
-            text-align: center;
+            
           }
 
      .kleurregel{
