@@ -192,15 +192,19 @@
 .positie{
     float: right;
 }
-p a{
+ a{
     font-size: 8px;
 }
-h1{ font-size:80%;
-
+h1{
+     font-size:80%;
+}
+p{
+    font-size: 8px;
 }
 h2{
     font-size: 80%;
 }
+
   }     
          
          
