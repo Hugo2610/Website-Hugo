@@ -10,32 +10,36 @@
     .nav {
         background-color: rgb(187, 79, 40);
         color: white;
-        float: left;
-          
+       /* float: left;*/
+         padding-top: 6px;
+         padding-bottom: 6px; 
     }
     ul {
         list-style-type: none;
         margin: 0;
-        padding: 10px 20px;
+        
       }
     li {
+        
         display: inline;
+        padding-right: 40px;
+        padding-left: 4px;
       }
-    a {
-    text-decoration: none;
-    font-size: 1.55rem;
-     color: white;
-     
-    }
+      a{
+        text-decoration: none;
+        font-size: 1.55rem;
+        color: white;
+
+
+      }
+    
     a:hover {
       color: black;
     }
-     .algpad{
-        padding-left: 15px;
-     }
+     
     .kleurregel{
-        background-color: yellow;
-        padding: 26px 0px;
+        background-color: rgba(255, 238, 0, 0.842);
+        padding: 2px 0px;
        
     }
     footer{
@@ -142,10 +146,15 @@
         li a {
 
             display: block;
-            padding: 0px 50px;
+            padding-left: 90px;
+            padding-right: 90px;
+            padding-top: 2px;
+            padding-bottom: 2px;
             text-align: center;
           }
-          
+     .kleurregel{
+        height: 83px;
+     }     
           
      .size
      {
