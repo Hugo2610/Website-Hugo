@@ -144,7 +144,7 @@
 
             display: block;
             padding-left: 0px;
-            padding-right: 0px;
+            padding-right: 1px;
             text-align: center;
             
           }
@@ -152,7 +152,7 @@
      .kleurregel{
         height: 1px;
       } 
-       .tvbl{padding-top: 10px;
+       .tvbl{padding-top: 30px;
         
        }
     
