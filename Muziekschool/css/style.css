@@ -173,7 +173,8 @@
 
      .kleurregel{
         height: 1px;
-        padding-bottom: 8px;
+        padding-bottom: none;
+        margin: none;
       } 
        .tvbl{
         padding-top: 38px;
