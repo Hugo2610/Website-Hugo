@@ -178,7 +178,7 @@
       } 
        .tvbl{
         padding-top: 30px;
-        margin-top: -20px;
+        margin-top: -10px;
         }
     
           
@@ -213,6 +213,7 @@ h2{
 }
 .col-3{
     padding-bottom: 20px;
+    background-color: rgb(250, 175, 125);
 }
 .bodemr{
     padding-bottom: 25px;
