@@ -158,6 +158,7 @@
 
      .kleurregel{
         height: 1px;
+        margin-bottom: auto;
       } 
        .tvbl{padding-top: 30px;
         
@@ -178,6 +179,9 @@
 }
 .positie{
     float: right;
+}
+p{
+    font-size: 1rem;
 }
 
   }     
