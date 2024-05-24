@@ -130,7 +130,16 @@
         padding-left: 0px;
         float: left;
         margin-left: 1px;
-     } 
+        display: block;
+     }
+     .img3{
+        width: 50%;
+        padding-left: 0px;
+        float: left;
+        margin-left: 1px;
+    
+     }
+
 
      header{
         text-align: center;
@@ -180,7 +189,7 @@
 .positie{
     float: right;
 }
-p{
+p a {
     font-size: 1rem;
 }
 
