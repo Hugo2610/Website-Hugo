@@ -215,7 +215,7 @@ h2{
 .col-3{
     padding-bottom: 20px;
     background-color: rgb(250, 175, 125);
-    display: flex;
+    height: auto;
 }
 .bodemr{
     padding-bottom: 25px;
