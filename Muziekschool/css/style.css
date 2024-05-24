@@ -124,7 +124,8 @@
         padding-left: 0px;
         float: left;
         margin-left: 1px;
-        padding-bottom: 10px;
+        padding-bottom: 20px;
+        padding-top: 20px;
      } 
      .img2{
         width: 50%;
@@ -166,8 +167,8 @@
             padding-left: 0px;
             padding-right: 4px;
             text-align: center;
-            padding-top: 3px;
-            padding-bottom: 3px;
+            padding-top: 5px;
+            padding-bottom: 5px;
           }
 
      .kleurregel{
@@ -201,10 +202,10 @@ h1{
      font-size: 32px;
 }
 p{
-    font-size: 12px;
+    font-size: 14px;
 }
 h2{
-    font-size: 20px;
+    font-size: 22px;
 }
 .col-3{
     padding-bottom: 20px;
