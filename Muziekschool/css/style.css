@@ -78,6 +78,7 @@
     }
     .posi{
         float: left;
+        padding-bottom: 30px;
 
     }
     h1{
@@ -178,7 +179,7 @@
       } 
        .tvbl{
         padding-top: 30px;
-        margin-top: -10px;
+        margin-top: -8px;
         }
     
           
@@ -206,14 +207,15 @@ h1{
      font-size: 32px;
 }
 p{
-    font-size: 14px;
+    font-size: 15px;
 }
 h2{
-    font-size: 25px;
+    font-size: 23px;
 }
 .col-3{
     padding-bottom: 20px;
     background-color: rgb(250, 175, 125);
+    display: flex;
 }
 .bodemr{
     padding-bottom: 25px;
