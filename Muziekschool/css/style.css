@@ -131,11 +131,11 @@
      } 
      .img2{
         width: 50%;
-        padding-left: 3px;
+        padding-left: 10px;
         padding-bottom: 16px;
         padding-top: 16px;
         float: left;
-        padding-right: 45%;
+        padding-right: 40%;
         margin-left: 1px;
         display: inline;
      }
@@ -190,7 +190,7 @@
      
      width: 100%;
      float: left;
-     margin-left: 1px;
+     margin-left: 2px;
      margin-right: 1px;
      }
      .col-3{
@@ -207,8 +207,8 @@
      }
 
     .blok2{
-    margin-right: 2px;
-    margin-left: -1px;
+    margin-right: 3px;
+    margin-left: -2px;
     }
      .blok3{
      margin-right: 2px;
