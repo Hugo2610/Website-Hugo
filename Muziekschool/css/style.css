@@ -191,24 +191,21 @@
      float: left;
      margin-left: 1px;
      margin-right: 1px;
-     margin-top: 10px;
-     margin-bottom: 25px;
+     
     
      
      }
-     
-     
-    .col-3{
+     .col-3{
     background-color:rgb(250, 175, 125);
-    width: fit-content;
+    
     
     }
 
 
-    .blok2{
+   /* .blok2{
     margin-right: 1px;
     margin-left: 1px;
-    }
+    }     */
     .positie{
     float: right;
 }
@@ -224,22 +221,11 @@ p{
 h2{
     font-size: 23px;
 }
-
-
-
-
-
 .bodemr{
     padding-bottom: 25px;
 }
   }     
-         
-         
-     
-      
-  
-
-    @media  (min-width: 768px){
+ @media  (min-width: 768px){
     
     .col-1 {width: 8.33%;}
     .col-2 {width: 16.66%;}
