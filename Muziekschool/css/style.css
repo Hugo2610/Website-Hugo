@@ -190,8 +190,8 @@
      
      width: 100%;
      float: left;
-     margin-left: 3px;
-     margin-right: 1px;
+     margin-left: 4px;
+     /*margin-right: 1px;*/
      }
      .col-3{
     
@@ -199,12 +199,9 @@
     padding-bottom: 25px;
     height: auto;
     }
-     .beperkt{
-        display: inline-block;
-
-      /*  background-color:rgb(250, 175, 125); */
-
-     }
+    .beperkt{
+    display: inline-block;
+    }
 
     .blok2{
     margin-right: 3px;
