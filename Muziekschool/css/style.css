@@ -199,7 +199,9 @@
     height: auto;
     width: 100%;
     }
-
+     .beperkt{
+        display: block;
+     }
 
    /* .blok2{
     margin-right: 1px;
