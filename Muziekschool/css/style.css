@@ -191,6 +191,7 @@
      float: left;
      margin-left: 1px;
      margin-right: 1px;
+     background-color:rgb(250, 175, 125);
     /* margin-top: 10px;
      margin-bottom: 10px;*/
      }
@@ -213,10 +214,7 @@ p{
 h2{
     font-size: 23px;
 }
-.beperkt{
-    display: flex;
-    height: auto;
-}
+
 .col-3{
     padding-bottom:25px;
     margin-bottom: 25px;
