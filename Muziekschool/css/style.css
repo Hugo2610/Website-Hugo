@@ -199,11 +199,13 @@
      .beperkt{
         width: 100%;
         background-color:rgb(250, 175, 125);
-        padding: auto;
+        padding-bottom: 25px;
+        
      }
 
 .blok2{
     margin-right: 3px;
+    margin-left: 3px;
 }
 .positie{
     float: right;
