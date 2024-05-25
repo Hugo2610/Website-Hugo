@@ -122,7 +122,7 @@
         display: block;
      }   
      .img{
-        width: 98%;
+        width: 95%;
         padding-left: 0px;
         float: left;
         margin-left: 1px;
@@ -194,7 +194,7 @@
      /*margin-right: 1px;*/
      }
      .col-3{
-    margin-left: 2px;
+    margin-left: 6px;
     margin-bottom: 25px;
     padding-bottom: 25px;
     height: auto;
@@ -204,12 +204,12 @@
     }
 
     .blok2{
-    margin-right: 3px;
-    margin-left: -4px;
+    margin-right: 8px;
+    /*margin-left: -4px;*/
     }
      .blok3{
-     margin-right: 6px;
-     margin-left: 9px;
+     margin-right: 12px;
+     margin-left: 15px;
      }    
 
     .positie{
