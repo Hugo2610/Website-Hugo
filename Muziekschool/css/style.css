@@ -190,7 +190,7 @@
      
      width: 100%;
      float: left;
-     margin-left: 2px;
+     margin-left: 3px;
      margin-right: 1px;
      }
      .col-3{
@@ -208,7 +208,7 @@
 
     .blok2{
     margin-right: 3px;
-    margin-left: -2px;
+    /*margin-left: -2px;*/
     }
      .blok3{
      margin-right: 2px;
