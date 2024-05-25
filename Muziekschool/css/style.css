@@ -214,9 +214,13 @@ h2{
     font-size: 23px;
 }
 .beperkt{
-    height: fit-content;
+    display: flex;
+    height: auto;
 }
-
+.col-3{
+    padding-bottom:25px;
+    margin-bottom: 25px;
+}
 
 
 
