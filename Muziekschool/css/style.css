@@ -179,7 +179,7 @@
         
       } 
        .tvbl{
-
+        margin-left: 2px;
         padding-top: 30px;
         margin-top: -2px;
         }
@@ -205,11 +205,11 @@
 
     .blok2{
     margin-right: 3px;
-    /*margin-left: -2px;*/
+    margin-left: -4px;
     }
      .blok3{
      margin-right: 2px;
-
+     margin-left: 5px;
      }    
 
     .positie{
